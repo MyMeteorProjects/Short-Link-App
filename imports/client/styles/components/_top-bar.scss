@@ -1,0 +1,16 @@
+.top-bar{
+  background: $top-bar-bg;
+  color: $top-bar-color;
+}
+
+.top-bar__content{
+  display: flex;
+  justify-content: space-between;
+  max-width: $site-max-width;
+  margin: 0 auto;
+  padding: $space;
+}
+
+.top-bar__title{
+  margin: 0;
+}

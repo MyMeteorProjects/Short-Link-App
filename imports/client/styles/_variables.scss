@@ -1,0 +1,37 @@
+//colors
+$brand-promary: #5b4681;
+$grey: #dddddd;
+$light-grey: #f9f9f9;
+
+//spacing
+ $space: 1.4rem;
+ $site-max-width: 50rem;
+
+//font sizes
+$base-font-size: 1.6rem;
+$large-font-size: 1.8rem;
+
+// form inputs
+$input-border: $grey;
+$input-spacing: 1rem;
+
+// boxed-view
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: white;
+
+//button
+$btn-bg: $brand-promary ;
+$btn-color: white;
+$btn-pill-color: $brand-promary;
+$btn-secondary-bg: $light-grey;
+$btn-secondary-color: #777777;
+$btn-secondary-border-color: #dddddd;
+
+//top bar
+$top-bar-bg: $brand-promary;
+$top-bar-color: white;
+
+//item
+$item-bg: $light-grey;
+$item-border: darken($item-bg, 8%);
+$item-text-color: #777777;
